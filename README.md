@@ -1,4 +1,4 @@
-# Hello World! I’m @somustache
+# Hello World! I’m somustache
 I don't have much to say tbh ._.
 
 <!---
