@@ -1,5 +1,5 @@
-- Hello World! I’m @somustache
-- I don't have much to say tbh ._.
+# Hello World! I’m @somustache
+I don't have much to say tbh ._.
 
 <!---
 somustache/somustache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
